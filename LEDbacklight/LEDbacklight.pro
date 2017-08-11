@@ -1,4 +1,4 @@
-update=Thursday, 10 August 2017 'pmt' 16:14:24
+update=Friday, 11 August 2017 'pmt' 17:23:46
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../hdrlab_lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,3 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=TLC5955DCA_symbols
