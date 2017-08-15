@@ -1,4 +1,4 @@
-update=Friday, 11 August 2017 'pmt' 17:23:46
+update=Tue 15 Aug 2017 15:33:24 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=TLC5955DCA_symbols
+LibName31=STM32F405RGT6_symbols
