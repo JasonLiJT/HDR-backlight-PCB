@@ -238,8 +238,8 @@ F 3 "" H 2850 6750 50  0001 C CNN
 	1    2850 6750
 	0    1    1    0   
 $EndComp
-Text Notes 6300 1050 0    118  ~ 24
-Oculus SDK\nPanel size: 153mm x 96mm
+Text Notes 6300 1400 0    118  ~ 24
+Oculus SDK\nPanel size: 153mm x 96mm\n\nStanford Panel: 155mm x 88mm?
 Wire Wire Line
 	900  900  900  1000
 Wire Wire Line
@@ -266,7 +266,7 @@ U 1 1 599AD7DE
 P 11850 2550
 F 0 "U4" H 13550 2950 60  0000 C CNN
 F 1 "STM32F103RET6" H 13550 2850 60  0000 C CNN
-F 2 "LQFP-64" H 13550 2790 60  0001 C CNN
+F 2 "Hdrlab_footprints:STM32F405RGT6" H 13550 2790 60  0001 C CNN
 F 3 "" H 11850 2550 60  0000 C CNN
 	1    11850 2550
 	1    0    0    -1  

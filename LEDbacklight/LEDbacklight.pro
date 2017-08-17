@@ -1,4 +1,4 @@
-update=Tue 15 Aug 2017 15:33:24 BST
+update=Thu 17 Aug 2017 12:39:12 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=TLC5955DCA_symbols
 LibName31=STM32F405RGT6_symbols
+LibName32=teensy

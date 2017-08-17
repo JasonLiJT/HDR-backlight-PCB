@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:TLC5955DCA_symbols
 LIBS:STM32F405RGT6_symbols
+LIBS:teensy
 LIBS:LEDbacklight-cache
 EELAYER 25 0
 EELAYER END
@@ -908,4 +909,15 @@ Text Label 10550 9050 0    60   ~ 0
 22
 Text Label 10550 9150 0    60   ~ 0
 23
+$Comp
+L Teensy3.2 U5
+U 1 1 5995824F
+P 9900 3850
+F 0 "U5" H 9900 5350 60  0000 C CNN
+F 1 "Teensy3.2" H 9900 2350 60  0000 C CNN
+F 2 "Hdrlab_footprints:Teensy30_31_32_LC" V 9900 3800 60  0000 C CNN
+F 3 "" H 9900 3050 60  0000 C CNN
+	1    9900 3850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
