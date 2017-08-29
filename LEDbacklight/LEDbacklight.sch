@@ -264,17 +264,6 @@ F 3 "" H 8050 6300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L TLC5955DCA U3
-U 1 1 599732D8
-P 9150 6350
-F 0 "U3" H 10050 6750 60  0000 C CNN
-F 1 "TLC5955DCA" H 10050 6650 60  0000 C CNN
-F 2 "Hdrlab_footprints:TLC5955DCA" H 10050 6590 60  0001 C CNN
-F 3 "" H 9150 6350 60  0000 C CNN
-	1    9150 6350
-	1    0    0    -1  
-$EndComp
-$Comp
 L GND #PWR015
 U 1 1 599732DE
 P 11000 9200
@@ -317,17 +306,6 @@ F 2 "" H 11000 6300 50  0001 C CNN
 F 3 "" H 11000 6300 50  0001 C CNN
 	1    11000 6300
 	-1   0    0    1   
-$EndComp
-$Comp
-L TLC5955DCA U4
-U 1 1 59973385
-P 12100 6350
-F 0 "U4" H 13000 6750 60  0000 C CNN
-F 1 "TLC5955DCA" H 13000 6650 60  0000 C CNN
-F 2 "Hdrlab_footprints:TLC5955DCA" H 13000 6590 60  0001 C CNN
-F 3 "" H 12100 6350 60  0000 C CNN
-	1    12100 6350
-	1    0    0    -1  
 $EndComp
 $Comp
 L GND #PWR019
@@ -3596,292 +3574,314 @@ Text Label 6900 9700 0    60   ~ 0
 U2toU3
 Text Label 10100 9700 0    60   ~ 0
 U3toU4
-Text Label 6200 6650 0    60   ~ 0
-0
-Text Label 6200 6750 0    60   ~ 0
-1
-Text Label 6200 6850 0    60   ~ 0
-2
-Text Label 6200 6950 0    60   ~ 0
-3
-Text Label 6200 7050 0    60   ~ 0
-4
-Text Label 6200 7150 0    60   ~ 0
-5
-Text Label 6200 7250 0    60   ~ 0
-6
 Text Label 6200 7350 0    60   ~ 0
-7
+122
 Text Label 6200 7450 0    60   ~ 0
-8
+109
 Text Label 6200 7550 0    60   ~ 0
-9
+108
 Text Label 6200 7650 0    60   ~ 0
-10
+107
 Text Label 6200 7750 0    60   ~ 0
-11
+106
 Text Label 6200 7850 0    60   ~ 0
-12
+92
 Text Label 6200 7950 0    60   ~ 0
-13
+91
 Text Label 6200 8050 0    60   ~ 0
-14
+76
 Text Label 6200 8150 0    60   ~ 0
-15
+75
 Text Label 6200 8250 0    60   ~ 0
-16
+60
 Text Label 6200 8350 0    60   ~ 0
-17
+59
 Text Label 6200 8450 0    60   ~ 0
-18
-Text Label 6200 8550 0    60   ~ 0
-19
-Text Label 6200 8650 0    60   ~ 0
-20
-Text Label 6200 8750 0    60   ~ 0
-21
-Text Label 6200 8850 0    60   ~ 0
-22
-Text Label 6200 8950 0    60   ~ 0
-23
-Text Label 8000 6750 0    60   ~ 0
-24
-Text Label 8000 6850 0    60   ~ 0
-25
-Text Label 8000 6950 0    60   ~ 0
-26
-Text Label 8000 7050 0    60   ~ 0
-27
-Text Label 8000 7150 0    60   ~ 0
-28
-Text Label 8000 7250 0    60   ~ 0
-29
-Text Label 8000 7350 0    60   ~ 0
-30
-Text Label 8000 7450 0    60   ~ 0
-31
-Text Label 8000 7550 0    60   ~ 0
-32
-Text Label 8000 7650 0    60   ~ 0
-33
-Text Label 8000 7750 0    60   ~ 0
-34
-Text Label 8000 7850 0    60   ~ 0
-35
-Text Label 8000 7950 0    60   ~ 0
-36
-Text Label 8000 8050 0    60   ~ 0
-37
-Text Label 8000 8150 0    60   ~ 0
-38
-Text Label 8000 8250 0    60   ~ 0
-39
-Text Label 8000 8350 0    60   ~ 0
-40
-Text Label 8000 8450 0    60   ~ 0
-41
-Text Label 8000 8550 0    60   ~ 0
-42
-Text Label 8000 8650 0    60   ~ 0
-43
-Text Label 8000 8750 0    60   ~ 0
 44
-Text Label 8000 8850 0    60   ~ 0
-45
-Text Label 8000 8950 0    60   ~ 0
-46
-Text Label 8000 9050 0    60   ~ 0
+Text Label 6200 8550 0    60   ~ 0
+43
+Text Label 6200 8650 0    60   ~ 0
+28
+Text Label 6200 8750 0    60   ~ 0
+27
+Text Label 6200 8850 0    60   ~ 0
+12
+Text Label 6200 8950 0    60   ~ 0
+11
+Text Label 8000 6750 0    60   ~ 0
+143
+Text Label 8000 6850 0    60   ~ 0
+142
+Text Label 8000 6950 0    60   ~ 0
+127
+Text Label 8000 7050 0    60   ~ 0
+126
+Text Label 8000 7150 0    60   ~ 0
+111
+Text Label 8000 7250 0    60   ~ 0
+110
+Text Label 8000 7350 0    60   ~ 0
+95
+Text Label 8000 7450 0    60   ~ 0
+94
+Text Label 8000 7550 0    60   ~ 0
+93
+Text Label 8000 7650 0    60   ~ 0
+79
+Text Label 8000 7750 0    60   ~ 0
+78
+Text Label 8000 7850 0    60   ~ 0
+77
+Text Label 8000 7950 0    60   ~ 0
+63
+Text Label 8000 8050 0    60   ~ 0
+62
+Text Label 8000 8150 0    60   ~ 0
+61
+Text Label 8000 8250 0    60   ~ 0
 47
-Text Label 9150 6650 0    60   ~ 0
-48
-Text Label 9150 6750 0    60   ~ 0
-49
-Text Label 9150 6850 0    60   ~ 0
-50
-Text Label 9150 6950 0    60   ~ 0
+Text Label 8000 8350 0    60   ~ 0
+46
+Text Label 8000 8450 0    60   ~ 0
+45
+Text Label 8000 8550 0    60   ~ 0
+31
+Text Label 8000 8650 0    60   ~ 0
+30
+Text Label 8000 8750 0    60   ~ 0
+29
+Text Label 8000 8850 0    60   ~ 0
+15
+Text Label 8000 8950 0    60   ~ 0
+14
+Text Label 8000 9050 0    60   ~ 0
+13
+Text Label 10950 6750 0    60   ~ 0
+23
+Text Label 10950 6850 0    60   ~ 0
+7
+Text Label 10950 6950 0    60   ~ 0
+6
+Text Label 10950 7050 0    60   ~ 0
+5
+Text Label 10950 7150 0    60   ~ 0
+4
+Text Label 10950 7250 0    60   ~ 0
+3
+Text Label 10950 7350 0    60   ~ 0
+2
+Text Label 10950 7450 0    60   ~ 0
+1
+Text Label 10950 7550 0    60   ~ 0
+0
+Text Label 10950 7650 0    60   ~ 0
+22
+Text Label 10950 7750 0    60   ~ 0
+21
+Text Label 10950 7850 0    60   ~ 0
+20
+Text Label 10950 7950 0    60   ~ 0
+19
+Text Label 10950 8050 0    60   ~ 0
+18
+Text Label 10950 8150 0    60   ~ 0
+17
+Text Label 10950 8250 0    60   ~ 0
+16
+Text Label 10950 8350 0    60   ~ 0
+32
+Text Label 10950 8450 0    60   ~ 0
+33
+Text Label 10950 8550 0    60   ~ 0
+34
+Text Label 10950 8650 0    60   ~ 0
+35
+Text Label 10950 8750 0    60   ~ 0
+36
+Text Label 10950 8850 0    60   ~ 0
+37
+Text Label 10950 8950 0    60   ~ 0
+38
+Text Label 10950 9050 0    60   ~ 0
+39
+Text Label 13900 6750 0    60   ~ 0
+99
+Text Label 13900 6850 0    60   ~ 0
+83
+Text Label 13900 6950 0    60   ~ 0
+67
+Text Label 13900 7050 0    60   ~ 0
 51
-Text Label 9150 7050 0    60   ~ 0
-52
-Text Label 9150 7150 0    60   ~ 0
-53
-Text Label 9150 7250 0    60   ~ 0
-54
-Text Label 9150 7350 0    60   ~ 0
-55
-Text Label 9150 7450 0    60   ~ 0
+Text Label 13900 7150 0    60   ~ 0
+50
+Text Label 13900 7250 0    60   ~ 0
+49
+Text Label 13900 7350 0    60   ~ 0
+48
+Text Label 13900 7450 0    60   ~ 0
+66
+Text Label 13900 7550 0    60   ~ 0
+65
+Text Label 13900 7650 0    60   ~ 0
+64
+Text Label 13900 7750 0    60   ~ 0
+82
+Text Label 13900 7850 0    60   ~ 0
+81
+Text Label 13900 7950 0    60   ~ 0
+80
+Text Label 13900 8050 0    60   ~ 0
+98
+Text Label 13900 8150 0    60   ~ 0
+97
+Text Label 13900 8250 0    60   ~ 0
+96
+Text Label 13900 8350 0    60   ~ 0
+114
+Text Label 13900 8450 0    60   ~ 0
+113
+Text Label 13900 8550 0    60   ~ 0
+112
+Text Label 13900 8650 0    60   ~ 0
+128
+Text Label 13900 8750 0    60   ~ 0
+129
+Text Label 13900 8850 0    60   ~ 0
+130
+Text Label 13900 8950 0    60   ~ 0
+131
+Text Label 13900 9050 0    60   ~ 0
+115
+Text Label 6200 7250 0    60   ~ 0
+123
+Text Label 6200 7150 0    60   ~ 0
+124
+Text Label 6200 7050 0    60   ~ 0
+125
+Text Label 6200 6950 0    60   ~ 0
+138
+Text Label 6200 6850 0    60   ~ 0
+139
+Text Label 6200 6750 0    60   ~ 0
+140
+Text Label 6200 6650 0    60   ~ 0
+141
+$Comp
+L TLC5955DCA U3
+U 1 1 599732D8
+P 9150 6350
+F 0 "U3" H 10050 6750 60  0000 C CNN
+F 1 "TLC5955DCA" H 10050 6650 60  0000 C CNN
+F 2 "Hdrlab_footprints:TLC5955DCA" H 10050 6590 60  0001 C CNN
+F 3 "" H 9150 6350 60  0000 C CNN
+	1    9150 6350
+	1    0    0    -1  
+$EndComp
+Text Label 9150 8950 0    60   ~ 0
+40
+Text Label 9150 8850 0    60   ~ 0
 56
+Text Label 9150 8750 0    60   ~ 0
+72
+Text Label 9150 8650 0    60   ~ 0
+88
+Text Label 9150 8550 0    60   ~ 0
+104
+Text Label 9150 8450 0    60   ~ 0
+120
+Text Label 9150 8350 0    60   ~ 0
+136
+Text Label 9150 8250 0    60   ~ 0
+137
+Text Label 9150 8150 0    60   ~ 0
+121
+Text Label 9150 8050 0    60   ~ 0
+105
+Text Label 9150 7950 0    60   ~ 0
+89
+Text Label 9150 7850 0    60   ~ 0
+73
+Text Label 9150 7750 0    60   ~ 0
+90
+Text Label 9150 7650 0    60   ~ 0
+74
 Text Label 9150 7550 0    60   ~ 0
 57
-Text Label 9150 7650 0    60   ~ 0
+Text Label 9150 7450 0    60   ~ 0
 58
-Text Label 9150 7750 0    60   ~ 0
-59
-Text Label 9150 7850 0    60   ~ 0
-60
-Text Label 9150 7950 0    60   ~ 0
-61
-Text Label 9150 8050 0    60   ~ 0
-62
-Text Label 9150 8150 0    60   ~ 0
-63
-Text Label 9150 8250 0    60   ~ 0
-64
-Text Label 9150 8350 0    60   ~ 0
-65
-Text Label 9150 8450 0    60   ~ 0
-66
-Text Label 9150 8550 0    60   ~ 0
-67
-Text Label 9150 8650 0    60   ~ 0
-68
-Text Label 9150 8750 0    60   ~ 0
-69
-Text Label 9150 8850 0    60   ~ 0
-70
-Text Label 9150 8950 0    60   ~ 0
-71
-Text Label 10950 6750 0    60   ~ 0
-72
-Text Label 10950 6850 0    60   ~ 0
-73
-Text Label 10950 6950 0    60   ~ 0
-74
-Text Label 10950 7050 0    60   ~ 0
-75
-Text Label 10950 7150 0    60   ~ 0
-76
-Text Label 10950 7250 0    60   ~ 0
-77
-Text Label 10950 7350 0    60   ~ 0
-78
-Text Label 10950 7450 0    60   ~ 0
-79
-Text Label 10950 7550 0    60   ~ 0
-80
-Text Label 10950 7650 0    60   ~ 0
-81
-Text Label 10950 7750 0    60   ~ 0
-82
-Text Label 10950 7850 0    60   ~ 0
-83
-Text Label 10950 7950 0    60   ~ 0
-84
-Text Label 10950 8050 0    60   ~ 0
-85
-Text Label 10950 8150 0    60   ~ 0
-86
-Text Label 10950 8250 0    60   ~ 0
-87
-Text Label 10950 8350 0    60   ~ 0
-88
-Text Label 10950 8450 0    60   ~ 0
-89
-Text Label 10950 8550 0    60   ~ 0
-90
-Text Label 10950 8650 0    60   ~ 0
-91
-Text Label 10950 8750 0    60   ~ 0
-92
-Text Label 10950 8850 0    60   ~ 0
-93
-Text Label 10950 8950 0    60   ~ 0
-94
-Text Label 10950 9050 0    60   ~ 0
-95
-Text Label 12100 6650 0    60   ~ 0
-96
-Text Label 12100 6750 0    60   ~ 0
-97
-Text Label 12100 6850 0    60   ~ 0
-98
-Text Label 12100 6950 0    60   ~ 0
-99
-Text Label 12100 7050 0    60   ~ 0
-100
-Text Label 12100 7150 0    60   ~ 0
-101
-Text Label 12100 7250 0    60   ~ 0
-102
-Text Label 12100 7350 0    60   ~ 0
-103
-Text Label 12100 7450 0    60   ~ 0
-104
-Text Label 12100 7550 0    60   ~ 0
-105
-Text Label 12100 7650 0    60   ~ 0
-106
-Text Label 12100 7750 0    60   ~ 0
-107
-Text Label 12100 7850 0    60   ~ 0
-108
-Text Label 12100 7950 0    60   ~ 0
-109
-Text Label 12100 8050 0    60   ~ 0
-110
-Text Label 12100 8150 0    60   ~ 0
-111
-Text Label 12100 8250 0    60   ~ 0
-112
-Text Label 12100 8350 0    60   ~ 0
-113
-Text Label 12100 8450 0    60   ~ 0
-114
-Text Label 12100 8550 0    60   ~ 0
-115
-Text Label 12100 8650 0    60   ~ 0
-116
-Text Label 12100 8750 0    60   ~ 0
-117
-Text Label 12100 8850 0    60   ~ 0
-118
+Text Label 9150 7350 0    60   ~ 0
+41
+Text Label 9150 7250 0    60   ~ 0
+42
+Text Label 9150 7150 0    60   ~ 0
+25
+Text Label 9150 7050 0    60   ~ 0
+26
+Text Label 9150 6950 0    60   ~ 0
+10
+Text Label 9150 6850 0    60   ~ 0
+1
+Text Label 9150 6750 0    60   ~ 0
+9
+Text Label 9150 6650 0    60   ~ 0
+8
+$Comp
+L TLC5955DCA U4
+U 1 1 59973385
+P 12100 6350
+F 0 "U4" H 13000 6750 60  0000 C CNN
+F 1 "TLC5955DCA" H 13000 6650 60  0000 C CNN
+F 2 "Hdrlab_footprints:TLC5955DCA" H 13000 6590 60  0001 C CNN
+F 3 "" H 12100 6350 60  0000 C CNN
+	1    12100 6350
+	1    0    0    -1  
+$EndComp
 Text Label 12100 8950 0    60   ~ 0
-119
-Text Label 13900 6750 0    60   ~ 0
-120
-Text Label 13900 6850 0    60   ~ 0
-121
-Text Label 13900 6950 0    60   ~ 0
-122
-Text Label 13900 7050 0    60   ~ 0
-123
-Text Label 13900 7150 0    60   ~ 0
-124
-Text Label 13900 7250 0    60   ~ 0
-125
-Text Label 13900 7350 0    60   ~ 0
-126
-Text Label 13900 7450 0    60   ~ 0
-127
-Text Label 13900 7550 0    60   ~ 0
-128
-Text Label 13900 7650 0    60   ~ 0
-129
-Text Label 13900 7750 0    60   ~ 0
-130
-Text Label 13900 7850 0    60   ~ 0
-131
-Text Label 13900 7950 0    60   ~ 0
+116
+Text Label 12100 8850 0    60   ~ 0
 132
-Text Label 13900 8050 0    60   ~ 0
+Text Label 12100 8750 0    60   ~ 0
 133
-Text Label 13900 8150 0    60   ~ 0
+Text Label 12100 8650 0    60   ~ 0
 134
-Text Label 13900 8250 0    60   ~ 0
+Text Label 12100 8550 0    60   ~ 0
 135
-Text Label 13900 8350 0    60   ~ 0
-136
-Text Label 13900 8450 0    60   ~ 0
-137
-Text Label 13900 8550 0    60   ~ 0
-138
-Text Label 13900 8650 0    60   ~ 0
-139
-Text Label 13900 8750 0    60   ~ 0
-140
-Text Label 13900 8850 0    60   ~ 0
-141
-Text Label 13900 8950 0    60   ~ 0
-142
-Text Label 13900 9050 0    60   ~ 0
-143
+Text Label 12100 8450 0    60   ~ 0
+119
+Text Label 12100 8350 0    60   ~ 0
+118
+Text Label 12100 8250 0    60   ~ 0
+117
+Text Label 12100 8150 0    60   ~ 0
+103
+Text Label 12100 8050 0    60   ~ 0
+102
+Text Label 12100 7950 0    60   ~ 0
+101
+Text Label 12100 7850 0    60   ~ 0
+87
+Text Label 12100 7750 0    60   ~ 0
+86
+Text Label 12100 7650 0    60   ~ 0
+85
+Text Label 12100 7550 0    60   ~ 0
+71
+Text Label 12100 7450 0    60   ~ 0
+70
+Text Label 12100 7350 0    60   ~ 0
+69
+Text Label 12100 7250 0    60   ~ 0
+55
+Text Label 12100 7150 0    60   ~ 0
+54
+Text Label 12100 7050 0    60   ~ 0
+53
+Text Label 12100 6950 0    60   ~ 0
+52
+Text Label 12100 6850 0    60   ~ 0
+68
+Text Label 12100 6750 0    60   ~ 0
+84
+Text Label 12100 6650 0    60   ~ 0
+100
 $EndSCHEMATC
