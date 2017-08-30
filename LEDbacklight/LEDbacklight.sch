@@ -2613,6 +2613,432 @@ NoConn ~ 8900 4950
 NoConn ~ 8900 5050
 NoConn ~ 10900 4650
 NoConn ~ 10900 4750
+Text Label 8900 3850 2    60   ~ 0
+SPI_DIN
+Text Label 12100 9050 2    60   ~ 0
+SPI_DIN
+Text Notes 11750 9250 0    60   ~ 0
+SPI data in: to be implemented
+Text Label 6900 9700 0    60   ~ 0
+U2toU3
+Text Label 10100 9700 0    60   ~ 0
+U3toU4
+Text Label 6200 7850 0    60   ~ 0
+122
+Text Label 6200 6850 0    60   ~ 0
+109
+Text Label 6200 7150 0    60   ~ 0
+108
+Text Label 6200 7250 0    60   ~ 0
+107
+Text Label 6200 7950 0    60   ~ 0
+106
+Text Label 6200 6750 0    60   ~ 0
+92
+Text Label 6200 6650 0    60   ~ 0
+91
+Text Label 6200 8850 0    60   ~ 0
+76
+Text Label 6200 8950 0    60   ~ 0
+75
+Text Label 6200 8650 0    60   ~ 0
+60
+Text Label 6200 8750 0    60   ~ 0
+59
+Text Label 6200 8450 0    60   ~ 0
+44
+Text Label 6200 8550 0    60   ~ 0
+43
+Text Label 6200 8350 0    60   ~ 0
+28
+Text Label 6200 8250 0    60   ~ 0
+27
+Text Label 6200 8150 0    60   ~ 0
+12
+Text Label 6200 8050 0    60   ~ 0
+11
+Text Label 8000 6750 0    60   ~ 0
+143
+Text Label 8000 6850 0    60   ~ 0
+142
+Text Label 8000 6950 0    60   ~ 0
+127
+Text Label 8000 7050 0    60   ~ 0
+126
+Text Label 8000 7150 0    60   ~ 0
+111
+Text Label 8000 7250 0    60   ~ 0
+110
+Text Label 8000 7350 0    60   ~ 0
+95
+Text Label 8000 7450 0    60   ~ 0
+94
+Text Label 8000 7550 0    60   ~ 0
+93
+Text Label 8000 7650 0    60   ~ 0
+79
+Text Label 8000 7750 0    60   ~ 0
+78
+Text Label 8000 7850 0    60   ~ 0
+77
+Text Label 8000 7950 0    60   ~ 0
+63
+Text Label 8000 8050 0    60   ~ 0
+62
+Text Label 8000 8150 0    60   ~ 0
+61
+Text Label 8000 8250 0    60   ~ 0
+47
+Text Label 8000 8350 0    60   ~ 0
+46
+Text Label 8000 8450 0    60   ~ 0
+45
+Text Label 8000 8550 0    60   ~ 0
+31
+Text Label 8000 8650 0    60   ~ 0
+30
+Text Label 8000 8750 0    60   ~ 0
+29
+Text Label 8000 8850 0    60   ~ 0
+15
+Text Label 8000 8950 0    60   ~ 0
+14
+Text Label 8000 9050 0    60   ~ 0
+13
+Text Label 10950 6750 0    60   ~ 0
+23
+Text Label 10950 6850 0    60   ~ 0
+7
+Text Label 10950 6950 0    60   ~ 0
+6
+Text Label 10950 7050 0    60   ~ 0
+5
+Text Label 10950 7150 0    60   ~ 0
+4
+Text Label 10950 7250 0    60   ~ 0
+3
+Text Label 10950 7350 0    60   ~ 0
+2
+Text Label 10950 7450 0    60   ~ 0
+1
+Text Label 10950 7550 0    60   ~ 0
+0
+Text Label 10950 7650 0    60   ~ 0
+22
+Text Label 10950 7750 0    60   ~ 0
+21
+Text Label 10950 7850 0    60   ~ 0
+20
+Text Label 10950 7950 0    60   ~ 0
+19
+Text Label 10950 8050 0    60   ~ 0
+18
+Text Label 10950 8150 0    60   ~ 0
+17
+Text Label 10950 8250 0    60   ~ 0
+16
+Text Label 10950 8350 0    60   ~ 0
+32
+Text Label 10950 8450 0    60   ~ 0
+33
+Text Label 10950 8550 0    60   ~ 0
+34
+Text Label 10950 8650 0    60   ~ 0
+35
+Text Label 10950 8750 0    60   ~ 0
+36
+Text Label 10950 8850 0    60   ~ 0
+37
+Text Label 10950 8950 0    60   ~ 0
+38
+Text Label 10950 9050 0    60   ~ 0
+39
+Text Label 13900 6750 0    60   ~ 0
+99
+Text Label 13900 6850 0    60   ~ 0
+83
+Text Label 13900 6950 0    60   ~ 0
+67
+Text Label 13900 7050 0    60   ~ 0
+51
+Text Label 13900 7150 0    60   ~ 0
+50
+Text Label 13900 7250 0    60   ~ 0
+49
+Text Label 13900 7350 0    60   ~ 0
+48
+Text Label 13900 7450 0    60   ~ 0
+66
+Text Label 13900 7550 0    60   ~ 0
+65
+Text Label 13900 7650 0    60   ~ 0
+64
+Text Label 13900 7750 0    60   ~ 0
+82
+Text Label 13900 7850 0    60   ~ 0
+81
+Text Label 13900 7950 0    60   ~ 0
+80
+Text Label 13900 8050 0    60   ~ 0
+98
+Text Label 13900 8150 0    60   ~ 0
+97
+Text Label 13900 8250 0    60   ~ 0
+96
+Text Label 13900 8350 0    60   ~ 0
+114
+Text Label 13900 8450 0    60   ~ 0
+113
+Text Label 13900 8550 0    60   ~ 0
+112
+Text Label 13900 8650 0    60   ~ 0
+128
+Text Label 13900 8750 0    60   ~ 0
+129
+Text Label 13900 8850 0    60   ~ 0
+130
+Text Label 13900 8950 0    60   ~ 0
+131
+Text Label 13900 9050 0    60   ~ 0
+115
+Text Label 6200 7450 0    60   ~ 0
+123
+Text Label 6200 7350 0    60   ~ 0
+124
+Text Label 6200 6950 0    60   ~ 0
+125
+Text Label 6200 7750 0    60   ~ 0
+138
+Text Label 6200 7650 0    60   ~ 0
+139
+Text Label 6200 7550 0    60   ~ 0
+140
+Text Label 6200 7050 0    60   ~ 0
+141
+$Comp
+L TLC5955DCA U3
+U 1 1 599732D8
+P 9150 6350
+F 0 "U3" H 10050 6750 60  0000 C CNN
+F 1 "TLC5955DCA" H 10050 6650 60  0000 C CNN
+F 2 "Hdrlab_footprints:TLC5955DCA" H 10050 6590 60  0001 C CNN
+F 3 "" H 9150 6350 60  0000 C CNN
+	1    9150 6350
+	1    0    0    -1  
+$EndComp
+Text Label 9150 8950 0    60   ~ 0
+40
+Text Label 9150 8850 0    60   ~ 0
+56
+Text Label 9150 8750 0    60   ~ 0
+72
+Text Label 9150 8650 0    60   ~ 0
+88
+Text Label 9150 8550 0    60   ~ 0
+104
+Text Label 9150 8450 0    60   ~ 0
+120
+Text Label 9150 8350 0    60   ~ 0
+136
+Text Label 9150 8250 0    60   ~ 0
+137
+Text Label 9150 8150 0    60   ~ 0
+121
+Text Label 9150 8050 0    60   ~ 0
+105
+Text Label 9150 7950 0    60   ~ 0
+89
+Text Label 9150 7850 0    60   ~ 0
+73
+Text Label 9150 7750 0    60   ~ 0
+90
+Text Label 9150 7650 0    60   ~ 0
+74
+Text Label 9150 7550 0    60   ~ 0
+57
+Text Label 9150 7350 0    60   ~ 0
+58
+Text Label 9150 7450 0    60   ~ 0
+41
+Text Label 9150 7250 0    60   ~ 0
+42
+Text Label 9150 7150 0    60   ~ 0
+25
+Text Label 9150 7050 0    60   ~ 0
+26
+Text Label 9150 6950 0    60   ~ 0
+10
+Text Label 9150 6850 0    60   ~ 0
+9
+Text Label 9150 6750 0    60   ~ 0
+8
+Text Label 9150 6650 0    60   ~ 0
+24
+$Comp
+L TLC5955DCA U4
+U 1 1 59973385
+P 12100 6350
+F 0 "U4" H 13000 6750 60  0000 C CNN
+F 1 "TLC5955DCA" H 13000 6650 60  0000 C CNN
+F 2 "Hdrlab_footprints:TLC5955DCA" H 13000 6590 60  0001 C CNN
+F 3 "" H 12100 6350 60  0000 C CNN
+	1    12100 6350
+	1    0    0    -1  
+$EndComp
+Text Label 12100 8950 0    60   ~ 0
+116
+Text Label 12100 8850 0    60   ~ 0
+132
+Text Label 12100 8750 0    60   ~ 0
+133
+Text Label 12100 8650 0    60   ~ 0
+134
+Text Label 12100 8550 0    60   ~ 0
+135
+Text Label 12100 8450 0    60   ~ 0
+119
+Text Label 12100 8350 0    60   ~ 0
+118
+Text Label 12100 8250 0    60   ~ 0
+117
+Text Label 12100 8150 0    60   ~ 0
+103
+Text Label 12100 8050 0    60   ~ 0
+102
+Text Label 12100 7950 0    60   ~ 0
+101
+Text Label 12100 7850 0    60   ~ 0
+87
+Text Label 12100 7750 0    60   ~ 0
+86
+Text Label 12100 7650 0    60   ~ 0
+85
+Text Label 12100 7550 0    60   ~ 0
+71
+Text Label 12100 7450 0    60   ~ 0
+70
+Text Label 12100 7350 0    60   ~ 0
+69
+Text Label 12100 7250 0    60   ~ 0
+55
+Text Label 12100 7150 0    60   ~ 0
+54
+Text Label 12100 7050 0    60   ~ 0
+53
+Text Label 12100 6950 0    60   ~ 0
+52
+Text Label 12100 6850 0    60   ~ 0
+68
+Text Label 12100 6750 0    60   ~ 0
+84
+Text Label 12100 6650 0    60   ~ 0
+100
+$Comp
+L VCC #PWR026
+U 1 1 59B60190
+P 8350 2700
+F 0 "#PWR026" H 8350 2550 50  0001 C CNN
+F 1 "VCC" H 8350 2850 50  0000 C CNN
+F 2 "" H 8350 2700 50  0001 C CNN
+F 3 "" H 8350 2700 50  0001 C CNN
+	1    8350 2700
+	1    0    0    -1  
+$EndComp
+Text Notes 11100 4200 0    98   Italic 20
+Tracks passing through:\n\n4(pin2, VCC) 5(pin3, LAT) 6(pin4, SPI_CLK) 7(pin5, LAT)\n23(pin 16, V_LED=3.6V) 27(pin20, GSCLK) 28(pin21, SPI_CLK)\n29(pin22, LAT) 30(pin23, VCC)\n21(pin14, SPI_DIN, not implemented yet)\n\n\nMake sure they are not set to output to avoid short\ne.g.\npinMode(pinNum, INPUT);\n// Default behavior if not initialized by pinMode()
+Text Label 8900 2950 2    60   ~ 0
+LAT
+Text Label 8900 3050 2    60   ~ 0
+SPI_CLK
+Text Label 8900 3150 2    60   ~ 0
+LAT
+Text Label 8900 4750 2    60   ~ 0
+V_LED
+Text Label 8900 5150 2    60   ~ 0
+GSCLK
+Text Label 10900 5150 0    60   ~ 0
+SPI_CLK
+Text Label 10900 5050 0    60   ~ 0
+LAT
+Text Label 8900 4550 2    60   ~ 0
+SPI_DIN
+$Comp
+L TEST_1P FID1
+U 1 1 59BFAA3A
+P 6550 3800
+F 0 "FID1" H 6550 4070 50  0000 C CNN
+F 1 "TEST_1P" H 6550 4000 50  0000 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 6750 3800 50  0001 C CNN
+F 3 "" H 6750 3800 50  0001 C CNN
+	1    6550 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P FID3
+U 1 1 59C007C1
+P 6900 3800
+F 0 "FID3" H 6900 4070 50  0000 C CNN
+F 1 "TEST_1P" H 6900 4000 50  0000 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 7100 3800 50  0001 C CNN
+F 3 "" H 7100 3800 50  0001 C CNN
+	1    6900 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P FID5
+U 1 1 59C019C9
+P 7250 3800
+F 0 "FID5" H 7250 4070 50  0000 C CNN
+F 1 "TEST_1P" H 7250 4000 50  0000 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7450 3800 50  0001 C CNN
+F 3 "" H 7450 3800 50  0001 C CNN
+	1    7250 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P FID7
+U 1 1 59C01BB1
+P 7600 3800
+F 0 "FID7" H 7600 4070 50  0000 C CNN
+F 1 "TEST_1P" H 7600 4000 50  0000 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7800 3800 50  0001 C CNN
+F 3 "" H 7800 3800 50  0001 C CNN
+	1    7600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P FID2
+U 1 1 59C01DA4
+P 6550 4150
+F 0 "FID2" H 6550 4420 50  0000 C CNN
+F 1 "TEST_1P" H 6550 4350 50  0000 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 6750 4150 50  0001 C CNN
+F 3 "" H 6750 4150 50  0001 C CNN
+	1    6550 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P FID4
+U 1 1 59C01F92
+P 6900 4150
+F 0 "FID4" H 6900 4420 50  0000 C CNN
+F 1 "TEST_1P" H 6900 4350 50  0000 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 7100 4150 50  0001 C CNN
+F 3 "" H 7100 4150 50  0001 C CNN
+	1    6900 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P FID6
+U 1 1 59C02183
+P 7250 4150
+F 0 "FID6" H 7250 4420 50  0000 C CNN
+F 1 "TEST_1P" H 7250 4350 50  0000 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7450 4150 50  0001 C CNN
+F 3 "" H 7450 4150 50  0001 C CNN
+	1    7250 4150
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	11650 6350 12100 6350
 Wire Wire Line
@@ -2659,7 +3085,7 @@ Wire Wire Line
 Wire Wire Line
 	8050 9200 8050 9150
 Wire Wire Line
-	8050 9150 8000 9150
+	8000 9150 8250 9150
 Wire Wire Line
 	8450 6450 8000 6450
 Wire Wire Line
@@ -2671,7 +3097,7 @@ Wire Wire Line
 Wire Wire Line
 	11000 9200 11000 9150
 Wire Wire Line
-	11000 9150 10950 9150
+	10950 9150 11250 9150
 Wire Wire Line
 	11350 6450 10950 6450
 Wire Wire Line
@@ -2683,7 +3109,7 @@ Wire Wire Line
 Wire Wire Line
 	13950 9200 13950 9150
 Wire Wire Line
-	13950 9150 13900 9150
+	13900 9150 14250 9150
 Wire Wire Line
 	14300 6450 13900 6450
 Wire Wire Line
@@ -3554,360 +3980,105 @@ Wire Wire Line
 	8900 2550 8800 2550
 Wire Wire Line
 	8800 2550 8800 2500
-Text Label 8900 3850 2    60   ~ 0
-SPI_DIN
-Text Label 12100 9050 2    60   ~ 0
-SPI_DIN
-Text Notes 11750 9250 0    60   ~ 0
-SPI data in: to be implemented
-Text Label 6900 9700 0    60   ~ 0
-U2toU3
-Text Label 10100 9700 0    60   ~ 0
-U3toU4
-Text Label 6200 7850 0    60   ~ 0
-122
-Text Label 6200 6850 0    60   ~ 0
-109
-Text Label 6200 7150 0    60   ~ 0
-108
-Text Label 6200 7250 0    60   ~ 0
-107
-Text Label 6200 7950 0    60   ~ 0
-106
-Text Label 6200 6750 0    60   ~ 0
-92
-Text Label 6200 6650 0    60   ~ 0
-91
-Text Label 6200 8850 0    60   ~ 0
-76
-Text Label 6200 8950 0    60   ~ 0
-75
-Text Label 6200 8650 0    60   ~ 0
-60
-Text Label 6200 8750 0    60   ~ 0
-59
-Text Label 6200 8450 0    60   ~ 0
-44
-Text Label 6200 8550 0    60   ~ 0
-43
-Text Label 6200 8350 0    60   ~ 0
-28
-Text Label 6200 8250 0    60   ~ 0
-27
-Text Label 6200 8150 0    60   ~ 0
-12
-Text Label 6200 8050 0    60   ~ 0
-11
-Text Label 8000 6750 0    60   ~ 0
-143
-Text Label 8000 6850 0    60   ~ 0
-142
-Text Label 8000 6950 0    60   ~ 0
-127
-Text Label 8000 7050 0    60   ~ 0
-126
-Text Label 8000 7150 0    60   ~ 0
-111
-Text Label 8000 7250 0    60   ~ 0
-110
-Text Label 8000 7350 0    60   ~ 0
-95
-Text Label 8000 7450 0    60   ~ 0
-94
-Text Label 8000 7550 0    60   ~ 0
-93
-Text Label 8000 7650 0    60   ~ 0
-79
-Text Label 8000 7750 0    60   ~ 0
-78
-Text Label 8000 7850 0    60   ~ 0
-77
-Text Label 8000 7950 0    60   ~ 0
-63
-Text Label 8000 8050 0    60   ~ 0
-62
-Text Label 8000 8150 0    60   ~ 0
-61
-Text Label 8000 8250 0    60   ~ 0
-47
-Text Label 8000 8350 0    60   ~ 0
-46
-Text Label 8000 8450 0    60   ~ 0
-45
-Text Label 8000 8550 0    60   ~ 0
-31
-Text Label 8000 8650 0    60   ~ 0
-30
-Text Label 8000 8750 0    60   ~ 0
-29
-Text Label 8000 8850 0    60   ~ 0
-15
-Text Label 8000 8950 0    60   ~ 0
-14
-Text Label 8000 9050 0    60   ~ 0
-13
-Text Label 10950 6750 0    60   ~ 0
-23
-Text Label 10950 6850 0    60   ~ 0
-7
-Text Label 10950 6950 0    60   ~ 0
-6
-Text Label 10950 7050 0    60   ~ 0
-5
-Text Label 10950 7150 0    60   ~ 0
-4
-Text Label 10950 7250 0    60   ~ 0
-3
-Text Label 10950 7350 0    60   ~ 0
-2
-Text Label 10950 7450 0    60   ~ 0
-1
-Text Label 10950 7550 0    60   ~ 0
-0
-Text Label 10950 7650 0    60   ~ 0
-22
-Text Label 10950 7750 0    60   ~ 0
-21
-Text Label 10950 7850 0    60   ~ 0
-20
-Text Label 10950 7950 0    60   ~ 0
-19
-Text Label 10950 8050 0    60   ~ 0
-18
-Text Label 10950 8150 0    60   ~ 0
-17
-Text Label 10950 8250 0    60   ~ 0
-16
-Text Label 10950 8350 0    60   ~ 0
-32
-Text Label 10950 8450 0    60   ~ 0
-33
-Text Label 10950 8550 0    60   ~ 0
-34
-Text Label 10950 8650 0    60   ~ 0
-35
-Text Label 10950 8750 0    60   ~ 0
-36
-Text Label 10950 8850 0    60   ~ 0
-37
-Text Label 10950 8950 0    60   ~ 0
-38
-Text Label 10950 9050 0    60   ~ 0
-39
-Text Label 13900 6750 0    60   ~ 0
-99
-Text Label 13900 6850 0    60   ~ 0
-83
-Text Label 13900 6950 0    60   ~ 0
-67
-Text Label 13900 7050 0    60   ~ 0
-51
-Text Label 13900 7150 0    60   ~ 0
-50
-Text Label 13900 7250 0    60   ~ 0
-49
-Text Label 13900 7350 0    60   ~ 0
-48
-Text Label 13900 7450 0    60   ~ 0
-66
-Text Label 13900 7550 0    60   ~ 0
-65
-Text Label 13900 7650 0    60   ~ 0
-64
-Text Label 13900 7750 0    60   ~ 0
-82
-Text Label 13900 7850 0    60   ~ 0
-81
-Text Label 13900 7950 0    60   ~ 0
-80
-Text Label 13900 8050 0    60   ~ 0
-98
-Text Label 13900 8150 0    60   ~ 0
-97
-Text Label 13900 8250 0    60   ~ 0
-96
-Text Label 13900 8350 0    60   ~ 0
-114
-Text Label 13900 8450 0    60   ~ 0
-113
-Text Label 13900 8550 0    60   ~ 0
-112
-Text Label 13900 8650 0    60   ~ 0
-128
-Text Label 13900 8750 0    60   ~ 0
-129
-Text Label 13900 8850 0    60   ~ 0
-130
-Text Label 13900 8950 0    60   ~ 0
-131
-Text Label 13900 9050 0    60   ~ 0
-115
-Text Label 6200 7450 0    60   ~ 0
-123
-Text Label 6200 7350 0    60   ~ 0
-124
-Text Label 6200 6950 0    60   ~ 0
-125
-Text Label 6200 7750 0    60   ~ 0
-138
-Text Label 6200 7650 0    60   ~ 0
-139
-Text Label 6200 7550 0    60   ~ 0
-140
-Text Label 6200 7050 0    60   ~ 0
-141
-$Comp
-L TLC5955DCA U3
-U 1 1 599732D8
-P 9150 6350
-F 0 "U3" H 10050 6750 60  0000 C CNN
-F 1 "TLC5955DCA" H 10050 6650 60  0000 C CNN
-F 2 "Hdrlab_footprints:TLC5955DCA" H 10050 6590 60  0001 C CNN
-F 3 "" H 9150 6350 60  0000 C CNN
-	1    9150 6350
-	1    0    0    -1  
-$EndComp
-Text Label 9150 8950 0    60   ~ 0
-40
-Text Label 9150 8850 0    60   ~ 0
-56
-Text Label 9150 8750 0    60   ~ 0
-72
-Text Label 9150 8650 0    60   ~ 0
-88
-Text Label 9150 8550 0    60   ~ 0
-104
-Text Label 9150 8450 0    60   ~ 0
-120
-Text Label 9150 8350 0    60   ~ 0
-136
-Text Label 9150 8250 0    60   ~ 0
-137
-Text Label 9150 8150 0    60   ~ 0
-121
-Text Label 9150 8050 0    60   ~ 0
-105
-Text Label 9150 7950 0    60   ~ 0
-89
-Text Label 9150 7850 0    60   ~ 0
-73
-Text Label 9150 7750 0    60   ~ 0
-90
-Text Label 9150 7650 0    60   ~ 0
-74
-Text Label 9150 7550 0    60   ~ 0
-57
-Text Label 9150 7350 0    60   ~ 0
-58
-Text Label 9150 7450 0    60   ~ 0
-41
-Text Label 9150 7250 0    60   ~ 0
-42
-Text Label 9150 7150 0    60   ~ 0
-25
-Text Label 9150 7050 0    60   ~ 0
-26
-Text Label 9150 6950 0    60   ~ 0
-10
-Text Label 9150 6850 0    60   ~ 0
-9
-Text Label 9150 6750 0    60   ~ 0
-8
-Text Label 9150 6650 0    60   ~ 0
-24
-$Comp
-L TLC5955DCA U4
-U 1 1 59973385
-P 12100 6350
-F 0 "U4" H 13000 6750 60  0000 C CNN
-F 1 "TLC5955DCA" H 13000 6650 60  0000 C CNN
-F 2 "Hdrlab_footprints:TLC5955DCA" H 13000 6590 60  0001 C CNN
-F 3 "" H 12100 6350 60  0000 C CNN
-	1    12100 6350
-	1    0    0    -1  
-$EndComp
-Text Label 12100 8950 0    60   ~ 0
-116
-Text Label 12100 8850 0    60   ~ 0
-132
-Text Label 12100 8750 0    60   ~ 0
-133
-Text Label 12100 8650 0    60   ~ 0
-134
-Text Label 12100 8550 0    60   ~ 0
-135
-Text Label 12100 8450 0    60   ~ 0
-119
-Text Label 12100 8350 0    60   ~ 0
-118
-Text Label 12100 8250 0    60   ~ 0
-117
-Text Label 12100 8150 0    60   ~ 0
-103
-Text Label 12100 8050 0    60   ~ 0
-102
-Text Label 12100 7950 0    60   ~ 0
-101
-Text Label 12100 7850 0    60   ~ 0
-87
-Text Label 12100 7750 0    60   ~ 0
-86
-Text Label 12100 7650 0    60   ~ 0
-85
-Text Label 12100 7550 0    60   ~ 0
-71
-Text Label 12100 7450 0    60   ~ 0
-70
-Text Label 12100 7350 0    60   ~ 0
-69
-Text Label 12100 7250 0    60   ~ 0
-55
-Text Label 12100 7150 0    60   ~ 0
-54
-Text Label 12100 7050 0    60   ~ 0
-53
-Text Label 12100 6950 0    60   ~ 0
-52
-Text Label 12100 6850 0    60   ~ 0
-68
-Text Label 12100 6750 0    60   ~ 0
-84
-Text Label 12100 6650 0    60   ~ 0
-100
-$Comp
-L VCC #PWR?
-U 1 1 59B60190
-P 8350 2700
-F 0 "#PWR?" H 8350 2550 50  0001 C CNN
-F 1 "VCC" H 8350 2850 50  0000 C CNN
-F 2 "" H 8350 2700 50  0001 C CNN
-F 3 "" H 8350 2700 50  0001 C CNN
-	1    8350 2700
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	8900 2850 8350 2850
 Wire Wire Line
 	8350 2850 8350 2700
-Text Notes 11100 4200 0    98   Italic 20
-Tracks passing through:\n\n4(pin2, VCC) 5(pin3, LAT) 6(pin4, SPI_CLK) 7(pin5, LAT)\n23(pin 16, V_LED=3.6V) 27(pin20, GSCLK) 28(pin21, SPI_CLK)\n29(pin22, LAT) 30(pin23, VCC)\n21(pin14, SPI_DIN, not implemented yet)\n\n\nMake sure they are not set to output to avoid short\ne.g.\npinMode(pinNum, INPUT);\n// Default behavior if not initialized by pinMode()
-Text Label 8900 2950 2    60   ~ 0
-LAT
-Text Label 8900 3050 2    60   ~ 0
-SPI_CLK
-Text Label 8900 3150 2    60   ~ 0
-LAT
-Text Label 8900 4750 2    60   ~ 0
-V_LED
-Text Label 8900 5150 2    60   ~ 0
-GSCLK
-Text Label 10900 5150 0    60   ~ 0
-SPI_CLK
-Text Label 10900 5050 0    60   ~ 0
-LAT
 Wire Wire Line
 	11200 4950 10900 4950
 Connection ~ 11200 4850
-Text Label 8900 4550 2    60   ~ 0
-SPI_DIN
+$Comp
+L TEST_1P FID8
+U 1 1 59C02377
+P 7600 4150
+F 0 "FID8" H 7600 4420 50  0000 C CNN
+F 1 "TEST_1P" H 7600 4350 50  0000 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7800 4150 50  0001 C CNN
+F 3 "" H 7800 4150 50  0001 C CNN
+	1    7600 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L C CU2
+U 1 1 59C16E28
+P 8250 9000
+F 0 "CU2" H 8275 9100 50  0000 L CNN
+F 1 "C" H 8275 8900 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 8288 8850 50  0001 C CNN
+F 3 "" H 8250 9000 50  0001 C CNN
+	1    8250 9000
+	1    0    0    -1  
+$EndComp
+Connection ~ 8050 9150
+$Comp
+L VCC #PWR027
+U 1 1 59C26F44
+P 8250 8650
+F 0 "#PWR027" H 8250 8500 50  0001 C CNN
+F 1 "VCC" H 8250 8800 50  0000 C CNN
+F 2 "" H 8250 8650 50  0001 C CNN
+F 3 "" H 8250 8650 50  0001 C CNN
+	1    8250 8650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8250 8650 8250 8850
+$Comp
+L C CU3
+U 1 1 59C29C22
+P 11250 9000
+F 0 "CU3" H 11275 9100 50  0000 L CNN
+F 1 "C" H 11275 8900 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 11288 8850 50  0001 C CNN
+F 3 "" H 11250 9000 50  0001 C CNN
+	1    11250 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR028
+U 1 1 59C29C28
+P 11250 8650
+F 0 "#PWR028" H 11250 8500 50  0001 C CNN
+F 1 "VCC" H 11250 8800 50  0000 C CNN
+F 2 "" H 11250 8650 50  0001 C CNN
+F 3 "" H 11250 8650 50  0001 C CNN
+	1    11250 8650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11250 8650 11250 8850
+Connection ~ 11000 9150
+$Comp
+L C CU4
+U 1 1 59C2CD82
+P 14250 9000
+F 0 "CU4" H 14275 9100 50  0000 L CNN
+F 1 "C" H 14275 8900 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 14288 8850 50  0001 C CNN
+F 3 "" H 14250 9000 50  0001 C CNN
+	1    14250 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR029
+U 1 1 59C2CD88
+P 14250 8650
+F 0 "#PWR029" H 14250 8500 50  0001 C CNN
+F 1 "VCC" H 14250 8800 50  0000 C CNN
+F 2 "" H 14250 8650 50  0001 C CNN
+F 3 "" H 14250 8650 50  0001 C CNN
+	1    14250 8650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14250 8650 14250 8850
+Connection ~ 13950 9150
+NoConn ~ 6550 3800
+NoConn ~ 6900 3800
+NoConn ~ 7250 3800
+NoConn ~ 7600 3800
+NoConn ~ 7600 4150
+NoConn ~ 7250 4150
+NoConn ~ 6900 4150
+NoConn ~ 6550 4150
 $EndSCHEMATC
