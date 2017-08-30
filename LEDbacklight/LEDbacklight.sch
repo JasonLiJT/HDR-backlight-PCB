@@ -3574,39 +3574,39 @@ Text Label 6900 9700 0    60   ~ 0
 U2toU3
 Text Label 10100 9700 0    60   ~ 0
 U3toU4
-Text Label 6200 7350 0    60   ~ 0
-122
-Text Label 6200 7450 0    60   ~ 0
-109
-Text Label 6200 7550 0    60   ~ 0
-108
-Text Label 6200 7650 0    60   ~ 0
-107
-Text Label 6200 7750 0    60   ~ 0
-106
 Text Label 6200 7850 0    60   ~ 0
-92
+122
+Text Label 6200 6850 0    60   ~ 0
+109
+Text Label 6200 7150 0    60   ~ 0
+108
+Text Label 6200 7250 0    60   ~ 0
+107
 Text Label 6200 7950 0    60   ~ 0
+106
+Text Label 6200 6750 0    60   ~ 0
+92
+Text Label 6200 6650 0    60   ~ 0
 91
-Text Label 6200 8050 0    60   ~ 0
+Text Label 6200 8850 0    60   ~ 0
 76
-Text Label 6200 8150 0    60   ~ 0
+Text Label 6200 8950 0    60   ~ 0
 75
-Text Label 6200 8250 0    60   ~ 0
+Text Label 6200 8650 0    60   ~ 0
 60
-Text Label 6200 8350 0    60   ~ 0
+Text Label 6200 8750 0    60   ~ 0
 59
 Text Label 6200 8450 0    60   ~ 0
 44
 Text Label 6200 8550 0    60   ~ 0
 43
-Text Label 6200 8650 0    60   ~ 0
+Text Label 6200 8350 0    60   ~ 0
 28
-Text Label 6200 8750 0    60   ~ 0
+Text Label 6200 8250 0    60   ~ 0
 27
-Text Label 6200 8850 0    60   ~ 0
+Text Label 6200 8150 0    60   ~ 0
 12
-Text Label 6200 8950 0    60   ~ 0
+Text Label 6200 8050 0    60   ~ 0
 11
 Text Label 8000 6750 0    60   ~ 0
 143
@@ -3752,19 +3752,19 @@ Text Label 13900 8950 0    60   ~ 0
 131
 Text Label 13900 9050 0    60   ~ 0
 115
-Text Label 6200 7250 0    60   ~ 0
+Text Label 6200 7450 0    60   ~ 0
 123
-Text Label 6200 7150 0    60   ~ 0
+Text Label 6200 7350 0    60   ~ 0
 124
-Text Label 6200 7050 0    60   ~ 0
-125
 Text Label 6200 6950 0    60   ~ 0
+125
+Text Label 6200 7750 0    60   ~ 0
 138
-Text Label 6200 6850 0    60   ~ 0
+Text Label 6200 7650 0    60   ~ 0
 139
-Text Label 6200 6750 0    60   ~ 0
+Text Label 6200 7550 0    60   ~ 0
 140
-Text Label 6200 6650 0    60   ~ 0
+Text Label 6200 7050 0    60   ~ 0
 141
 $Comp
 L TLC5955DCA U3
@@ -3807,9 +3807,9 @@ Text Label 9150 7650 0    60   ~ 0
 74
 Text Label 9150 7550 0    60   ~ 0
 57
-Text Label 9150 7450 0    60   ~ 0
-58
 Text Label 9150 7350 0    60   ~ 0
+58
+Text Label 9150 7450 0    60   ~ 0
 41
 Text Label 9150 7250 0    60   ~ 0
 42
