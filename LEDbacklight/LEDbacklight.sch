@@ -2604,23 +2604,15 @@ Text Label 12100 6550 2    60   ~ 0
 LAT
 NoConn ~ 8900 2650
 NoConn ~ 8900 2750
-NoConn ~ 8900 3050
-NoConn ~ 8900 3150
 NoConn ~ 8900 3250
 NoConn ~ 8900 3350
 NoConn ~ 8900 3450
 NoConn ~ 8900 4650
-NoConn ~ 8900 4550
-NoConn ~ 8900 4750
 NoConn ~ 8900 4850
 NoConn ~ 8900 4950
 NoConn ~ 8900 5050
-NoConn ~ 8900 5150
 NoConn ~ 10900 4650
 NoConn ~ 10900 4750
-NoConn ~ 10900 4950
-NoConn ~ 10900 5050
-NoConn ~ 10900 5150
 Wire Wire Line
 	11650 6350 12100 6350
 Wire Wire Line
@@ -2651,7 +2643,7 @@ Wire Wire Line
 Wire Wire Line
 	11200 4850 10900 4850
 Wire Wire Line
-	11200 4700 11200 4850
+	11200 4700 11200 4950
 Wire Wire Line
 	900  900  900  1000
 Wire Wire Line
@@ -3897,8 +3889,25 @@ Wire Wire Line
 	8900 2850 8350 2850
 Wire Wire Line
 	8350 2850 8350 2700
-Text Notes 11050 3750 0    98   Italic 20
-Tracks passing through:\n\n4(pin2, VCC) 5(pin3, LAT) 6(pin4, SPI_CLK) 7(pin5, LAT)\n\nMake sure they are not set to output to avoid short\ne.g.\npinMode(pinNum, INPUT);\n// Default behavior if not initialized by pinMode()
+Text Notes 11100 4200 0    98   Italic 20
+Tracks passing through:\n\n4(pin2, VCC) 5(pin3, LAT) 6(pin4, SPI_CLK) 7(pin5, LAT)\n23(pin 16, V_LED=3.6V) 27(pin20, GSCLK) 28(pin21, SPI_CLK)\n29(pin22, LAT) 30(pin23, VCC)\n21(pin14, SPI_DIN, not implemented yet)\n\n\nMake sure they are not set to output to avoid short\ne.g.\npinMode(pinNum, INPUT);\n// Default behavior if not initialized by pinMode()
 Text Label 8900 2950 2    60   ~ 0
 LAT
+Text Label 8900 3050 2    60   ~ 0
+SPI_CLK
+Text Label 8900 3150 2    60   ~ 0
+LAT
+Text Label 8900 4750 2    60   ~ 0
+V_LED
+Text Label 8900 5150 2    60   ~ 0
+GSCLK
+Text Label 10900 5150 0    60   ~ 0
+SPI_CLK
+Text Label 10900 5050 0    60   ~ 0
+LAT
+Wire Wire Line
+	11200 4950 10900 4950
+Connection ~ 11200 4850
+Text Label 8900 4550 2    60   ~ 0
+SPI_DIN
 $EndSCHEMATC
