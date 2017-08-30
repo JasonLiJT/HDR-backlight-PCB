@@ -3820,11 +3820,11 @@ Text Label 9150 7050 0    60   ~ 0
 Text Label 9150 6950 0    60   ~ 0
 10
 Text Label 9150 6850 0    60   ~ 0
-1
-Text Label 9150 6750 0    60   ~ 0
 9
-Text Label 9150 6650 0    60   ~ 0
+Text Label 9150 6750 0    60   ~ 0
 8
+Text Label 9150 6650 0    60   ~ 0
+24
 $Comp
 L TLC5955DCA U4
 U 1 1 59973385

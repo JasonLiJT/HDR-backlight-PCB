@@ -2649,9 +2649,7 @@ Wire Wire Line
 Wire Wire Line
 	6900 3050 7000 3050
 Wire Wire Line
-	6900 2950 6900 3050
-Wire Wire Line
-	6900 3050 6900 3150
+	6900 2950 6900 3150
 Wire Wire Line
 	11200 4850 10900 4850
 Wire Wire Line
