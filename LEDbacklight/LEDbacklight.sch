@@ -2604,8 +2604,6 @@ Text Label 12100 6550 2    60   ~ 0
 LAT
 NoConn ~ 8900 2650
 NoConn ~ 8900 2750
-NoConn ~ 8900 2850
-NoConn ~ 8900 2950
 NoConn ~ 8900 3050
 NoConn ~ 8900 3150
 NoConn ~ 8900 3250
@@ -3884,4 +3882,23 @@ Text Label 12100 6750 0    60   ~ 0
 84
 Text Label 12100 6650 0    60   ~ 0
 100
+$Comp
+L VCC #PWR?
+U 1 1 59B60190
+P 8350 2700
+F 0 "#PWR?" H 8350 2550 50  0001 C CNN
+F 1 "VCC" H 8350 2850 50  0000 C CNN
+F 2 "" H 8350 2700 50  0001 C CNN
+F 3 "" H 8350 2700 50  0001 C CNN
+	1    8350 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 2850 8350 2850
+Wire Wire Line
+	8350 2850 8350 2700
+Text Notes 11050 3750 0    98   Italic 20
+Tracks passing through:\n\n4(pin2, VCC) 5(pin3, LAT) 6(pin4, SPI_CLK) 7(pin5, LAT)\n\nMake sure they are not set to output to avoid short\ne.g.\npinMode(pinNum, INPUT);\n// Default behavior if not initialized by pinMode()
+Text Label 8900 2950 2    60   ~ 0
+LAT
 $EndSCHEMATC
