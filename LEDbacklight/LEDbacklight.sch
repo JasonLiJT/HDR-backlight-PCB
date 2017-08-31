@@ -2968,7 +2968,7 @@ U 1 1 59BFAA3A
 P 6550 3800
 F 0 "FID1" H 6550 4070 50  0000 C CNN
 F 1 "TEST_1P" H 6550 4000 50  0000 C CNN
-F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 6750 3800 50  0001 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 6750 3800 50  0001 C CNN
 F 3 "" H 6750 3800 50  0001 C CNN
 	1    6550 3800
 	1    0    0    -1  
@@ -2979,7 +2979,7 @@ U 1 1 59C007C1
 P 6900 3800
 F 0 "FID3" H 6900 4070 50  0000 C CNN
 F 1 "TEST_1P" H 6900 4000 50  0000 C CNN
-F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 7100 3800 50  0001 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7100 3800 50  0001 C CNN
 F 3 "" H 7100 3800 50  0001 C CNN
 	1    6900 3800
 	1    0    0    -1  
@@ -2990,7 +2990,7 @@ U 1 1 59C019C9
 P 7250 3800
 F 0 "FID5" H 7250 4070 50  0000 C CNN
 F 1 "TEST_1P" H 7250 4000 50  0000 C CNN
-F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7450 3800 50  0001 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 7450 3800 50  0001 C CNN
 F 3 "" H 7450 3800 50  0001 C CNN
 	1    7250 3800
 	1    0    0    -1  
@@ -3001,7 +3001,7 @@ U 1 1 59C01BB1
 P 7600 3800
 F 0 "FID7" H 7600 4070 50  0000 C CNN
 F 1 "TEST_1P" H 7600 4000 50  0000 C CNN
-F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7800 3800 50  0001 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 7800 3800 50  0001 C CNN
 F 3 "" H 7800 3800 50  0001 C CNN
 	1    7600 3800
 	1    0    0    -1  
@@ -3012,7 +3012,7 @@ U 1 1 59C01DA4
 P 6550 4150
 F 0 "FID2" H 6550 4420 50  0000 C CNN
 F 1 "TEST_1P" H 6550 4350 50  0000 C CNN
-F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 6750 4150 50  0001 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 6750 4150 50  0001 C CNN
 F 3 "" H 6750 4150 50  0001 C CNN
 	1    6550 4150
 	1    0    0    -1  
@@ -3023,7 +3023,7 @@ U 1 1 59C01F92
 P 6900 4150
 F 0 "FID4" H 6900 4420 50  0000 C CNN
 F 1 "TEST_1P" H 6900 4350 50  0000 C CNN
-F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 7100 4150 50  0001 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7100 4150 50  0001 C CNN
 F 3 "" H 7100 4150 50  0001 C CNN
 	1    6900 4150
 	1    0    0    -1  
@@ -3034,7 +3034,7 @@ U 1 1 59C02183
 P 7250 4150
 F 0 "FID6" H 7250 4420 50  0000 C CNN
 F 1 "TEST_1P" H 7250 4350 50  0000 C CNN
-F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7450 4150 50  0001 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 7450 4150 50  0001 C CNN
 F 3 "" H 7450 4150 50  0001 C CNN
 	1    7250 4150
 	1    0    0    -1  
@@ -3993,7 +3993,7 @@ U 1 1 59C02377
 P 7600 4150
 F 0 "FID8" H 7600 4420 50  0000 C CNN
 F 1 "TEST_1P" H 7600 4350 50  0000 C CNN
-F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 7800 4150 50  0001 C CNN
+F 2 "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom" H 7800 4150 50  0001 C CNN
 F 3 "" H 7800 4150 50  0001 C CNN
 	1    7600 4150
 	1    0    0    -1  
