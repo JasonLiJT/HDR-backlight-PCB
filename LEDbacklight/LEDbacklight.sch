@@ -2945,7 +2945,7 @@ F 3 "" H 8350 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 11100 4200 0    98   Italic 20
-Tracks passing through:\n\n4(pin2, VCC) 5(pin3, LAT) 6(pin4, SPI_CLK) 7(pin5, LAT)\n23(pin 16, V_LED=3.6V) 27(pin20, GSCLK) 28(pin21, SPI_CLK)\n29(pin22, LAT) 30(pin23, VCC)\n\n\nMake sure they are not set to output to avoid short\ne.g.\npinMode(pinNum, INPUT);\n// Default behavior if not initialized by pinMode()
+Tracks passing through:\n\n4(pin2, VCC) 5(pin3, LAT) 6(pin4, SPI_CLK) 7(pin5, LAT)\n23(pin 16, V_LED=3.6V) 27(pin20, GSCLK) 28(pin21, SPI_CLK)\n29(pin22, LAT)\n\n\nMake sure they are not set to output to avoid short\ne.g.\npinMode(pinNum, INPUT);\n// Default behavior if not initialized by pinMode()
 Text Label 8900 2950 2    60   ~ 0
 LAT
 Text Label 8900 3050 2    60   ~ 0
@@ -3066,8 +3066,6 @@ Wire Wire Line
 	6900 2950 6900 3150
 Wire Wire Line
 	11200 4850 10900 4850
-Wire Wire Line
-	11200 4700 11200 4950
 Wire Wire Line
 	900  900  900  1000
 Wire Wire Line
@@ -3982,8 +3980,6 @@ Wire Wire Line
 	8900 2850 8350 2850
 Wire Wire Line
 	8350 2850 8350 2700
-Wire Wire Line
-	11200 4950 10900 4950
 Connection ~ 11200 4850
 $Comp
 L TEST_1P FID8
@@ -4080,4 +4076,7 @@ NoConn ~ 7250 4150
 NoConn ~ 6900 4150
 NoConn ~ 6550 4150
 NoConn ~ 8900 4550
+Wire Wire Line
+	11200 4700 11200 4850
+NoConn ~ 10900 4950
 $EndSCHEMATC
